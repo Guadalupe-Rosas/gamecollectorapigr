@@ -3,10 +3,10 @@ info:
   version: "0.0.1"
   title: Game Collector App
 # during dev, should point to your local machine
-#host: advance-engine-250015.appspot.com
-host: localhost:10010
+host: project-guadalupe.appspot.com
+#host: localhost:10010
 x-google-endpoints:
-- name: 'advance-engine-250015.appspot.com'
+- name: 'project-guadalupe.appspot.com'
   allowCors: 'true'
 # basePath prefixes all resource paths 
 basePath: /
