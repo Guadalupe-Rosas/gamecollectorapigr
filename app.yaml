@@ -10,7 +10,7 @@ resources:
 endpoints_api_service:
 # The following values are to be replaced by information from the output of
 # 'gcloud endpoints services deploy openapi-appengine.yaml' command.
-   name: advance-engine-250015.appspot.com
+   name: project-guadalupe.appspot.com
 #rollout_strategy: managed
 # Copyright 2015-2016, Google,
    config_id: 2019-10-01r0 # este config_id se cambia de acuerdo a la fecha actual
